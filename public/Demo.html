@@ -1,0 +1,24 @@
+<!--<script>
+   if(navigator.cookieEnabled =true){
+    alert("Please login")
+    document.write("please login")
+   }
+   else{
+    alert("signout")
+    document.write("plase signout");
+   }
+</script>-->
+<script>
+   function SentenceCase(str){
+      var firstChar = str.charAt(0);
+      var restChars = str.substring(1);
+      var Sentence=firstChar.toUpperCase()+restChars.toLowerCase();
+      return Sentence;
+   }
+   var text ="weLcoMe to JavAsCript";
+   document.write(text+"<br>");
+   document.write(SentenceCase(text));
+   SentenceCase();
+</script>
+
+

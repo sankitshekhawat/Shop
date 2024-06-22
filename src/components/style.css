@@ -1,0 +1,187 @@
+body{
+    background-color: rgb(245, 218, 187);
+
+}
+
+#Navbar{
+    display: flex;
+    width: 100%;
+    transition: 2s;
+    background-color: rgb(245, 218, 187);     
+}
+
+#Navbar:hover{
+    background-color: white;
+}
+.Originsymbol{
+    position: relative
+    ;
+    left: 193px;
+}
+.mr-auto{
+    position: relative
+    ;
+    left: 193px;
+}
+#search{
+    position: relative;
+    left: 443px;
+    top: -17px;
+}
+.mr-sm-2{
+    position: relative;
+    left: 232px;
+    top: 19px;
+    
+}
+.cardimg{
+    background-color: rgb(245, 218, 187);
+    transition: .2s;  
+    filter:  blur(-0px)!important;
+   transition: .2s;
+    
+}
+.cardimg:hover{
+    box-shadow: 1px 1px 20px 0 black;
+}
+.ShopCard:hover{
+    box-shadow: 1px 1px 20px 0 yellow;
+
+}
+
+.Navimg{
+    position: relative;
+    top: 394px;
+   left: 802px;
+   width: 500px;
+   height: 345px;
+   border-radius: 15px;
+
+}
+h2{
+    position: relative;
+    top: -312px
+}
+.img5{
+    position: relative;
+    top: 474;
+    left: 702px;
+}
+.fifthimg{
+position: relative;
+top: 973px;
+display: none;
+}
+.HappyNutrition{
+    position: relative;
+    top: -264px;
+    margin-left: 133px;
+    font-size: 350%;
+    color: chocolate;
+}
+.Follow{
+    margin-left: 473px;
+    position: relative;
+    top: -274px;
+    font-size: 200% ;
+    color: orange;
+ 
+}
+.Navlink{
+    color: brown !important;
+    font-size: large;
+    position: relative;
+    top: -202px;
+    font-weight: bolder;
+}
+.vertical-line {
+  border-left: 2px solid brown;
+  height: 80%;
+  position: absolute;
+  left: 30%;
+  top: 1750px;;
+}
+.Vertical2{
+    position: relative;
+    top: -592px; 
+    margin-left: 550px;
+    font-size: 30px;
+    font-weight: bolder;
+    color: brown;
+
+}
+.form-controls{
+    position: relative;
+    top: -532px; 
+    margin-left: 500px;
+}
+.VerInput{
+    width: 343px;
+    height: 45px;
+    border-radius: 12px;
+}
+.btn-warning{
+    position: relative;
+    top: 12px; 
+    margin-left: 100px;
+    width: 150px;
+    height: 43px;
+    border-radius: 23px;
+}
+.vertical-line2 {
+    border-left: 2px solid brown;
+    height: 80%;
+    position: absolute;
+    left: 68%;
+    top: 1750px;;
+  }
+ 
+.VerImg{
+    position: relative;
+    top: -792px; 
+    margin-left: 1050px;
+    background-color: rgb(235, 231, 227);     
+   border-radius: 50%;
+}
+.Vertical3{
+position: relative;
+top: -772px; 
+margin-left: 950px;
+font-weight: bolder;
+ font-size: larger;
+}  
+.bi-instagram{
+ position: relative;
+ top: -712px; 
+ margin-left: 950px;
+ font-size: 300%;
+}
+.bi-facebook{
+ position: relative;
+ top: -800px; 
+ margin-left: 1030px;
+ font-size: 300%;
+}
+#instagram{
+    position: relative;
+    top: -202px; 
+    margin-left: -1230px;
+    font-size: 100%;
+    row-gap: 12px;
+    text-decoration: none;
+    color: brown;
+}
+#icon{
+    position: relative;
+    top: -192px; 
+    right: 932px;
+    font-size: 100%;
+    row-gap: 12px;
+    text-decoration: none;
+    color: brown;
+}
+#iconn{
+    position: relative;
+    top: 10px;
+    left: 123px;
+}
